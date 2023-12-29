@@ -1,1 +1,1 @@
-For reading pdf go to open and download the zip file of IPL Data analysis.
+For reading pdf go to code and download the zip file of IPL Data analysis.
